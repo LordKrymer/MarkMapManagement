@@ -1,0 +1,12 @@
+Dado el tema '{input}', genera una lista en español de los principales subtemas y conceptos clave que deberían incluirse en un mapa mental detallado.
+
+Instrucciones:
+
+1.  Identifica los subtemas principales que son fundamentales para comprender el tema '{input}'.
+2.  Organiza los subtemas de manera lógica y jerárquica, si es posible.
+3.  Incluye conceptos clave y términos relevantes que estén directamente relacionados con los subtemas.
+4.  Proporciona la respuesta en formato de lista, con cada subtema en una línea separada.
+5.  Asegúrate de que la lista sea exhaustiva pero concisa, evitando información redundante.
+
+Formato de salida:
+(Lista de subtemas y conceptos clave)

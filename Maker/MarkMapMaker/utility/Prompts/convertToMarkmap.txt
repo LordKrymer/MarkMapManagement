@@ -1,0 +1,16 @@
+Convierte la siguiente lista de temas principales en un mapa mental en formato Markmap, este es una variante de MarkDown por niveles, la profundidad se denota con la cantidad de # y las hojas con -.
+
+Instrucciones:
+
+1.  Genera el mapa mental en español.
+2.  Cada tema principal debe ser una rama principal del mapa mental.
+3.  En la hoja (último nodo) de cada rama, proporciona una explicación detallada del tema.
+4.  Asegúrate de que las hojas con información detallada tengan el comentario '' para que no se muestren inicialmente.
+5.  El resultado debe contener solo el código Markmap, sin texto adicional.
+6.  Se debe respetar los niveles de identacion perfectamente, no agregar espacios en blanco si no es necesario.
+
+Lista de temas principales:
+{lista_de_temas}
+
+Formato de salida:
+(Código Markmap)

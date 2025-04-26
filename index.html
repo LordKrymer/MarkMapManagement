@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muestrario Dinámico</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <label for="selector">Selecciona una temática:</label>
+        <select id="selector"></select>
+        <a href="#texto-complementario"><button>Complemento</button></a>
+        <div class="content">
+            <iframe id="visor-html"></iframe>
+            <div id="texto-complementario"></div>
+        </div>
+        <button id="generar-snapshot">Generar Snapshot</button> 
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

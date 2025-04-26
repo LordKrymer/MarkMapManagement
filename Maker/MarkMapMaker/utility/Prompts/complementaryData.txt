@@ -1,0 +1,31 @@
+A continuación, se presenta un mapa mental en formato Markmap. Tu tarea es generar resúmenes escritos en español para cada uno de los temas principales detallados en el Markmap.
+
+Instrucciones:
+
+1.  Interpreta correctamente la estructura del Markmap, incluyendo los temas principales, subtemas y hojas con información detallada.
+2.  Genera un resumen escrito para cada tema principal del Markmap.
+3.  Los resúmenes deben ser complementarios a la información ya presente en el Markmap, evitando la redundancia.
+4.  Incluye información adicional y relevante en los resúmenes para ampliar los temas del Markmap.
+5.  Asegúrate de que los resúmenes sean coherentes con el tema general del Markmap y que no contradigan la información presentada en él.
+6.  Proporciona los resúmenes en español, con un formato claro y organizado.
+7.  Agrega los saltos de linea en los lugares donde sea necesario para mejorar la legibilidad.
+8.  Utiliza un lenguaje claro y accesible, evitando tecnicismos innecesarios.
+9.  Mantén un tono neutral y objetivo en los resúmenes, evitando opiniones personales o juicios de valor.
+10.  Asegúrate de que la información presentada sea precisa y esté actualizada hasta la fecha de corte de tu conocimiento.
+
+Recuerda que el objetivo es complementar la información del Markmap con resúmenes escritos que enriquezcan la comprensión de los temas tratados.
+
+Mapa mental Markmap:
+{markmap_a_utilizar}
+
+Formato de salida:
+{{titulo tema principal 1}}:
+(Resumen escrito)
+
+{{titulo tema principal 2}}:
+(Resumen escrito)
+
+...
+
+{{titulo tema principal n}}:
+(Resumen escrito)

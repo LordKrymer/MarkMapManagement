@@ -1,0 +1,23 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.9.3",
+    "@google/generative-ai": "^0.23.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "markmap": "^0.6.1",
+    "markmap-lib": "^0.18.11",
+    "markmap-render": "^0.18.10",
+    "markmap-view": "^0.18.10",
+    "winston": "^3.17.0"
+  }
+}

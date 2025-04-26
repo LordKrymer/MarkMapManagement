@@ -1,0 +1,78 @@
+# Título Principal del Tema
+
+## Subtema de Nivel 1
+- **Idea Clave 1**:
+    - Detalle o explicación de la idea clave 1.
+    - Ejemplo o caso práctico.
+- **Idea Clave 2**:
+    - Detalle o explicación de la idea clave 2.
+    - Ejemplo o caso práctico.
+
+## Subtema de Nivel 2
+- **Concepto A**:
+    - Definición y características del concepto A.
+    - Relación con otros conceptos.
+- **Concepto B**:
+    - Definición y características del concepto B.
+    - Relación con otros conceptos.
+
+## Subtema de Nivel 3
+- **Punto Importante 1**:
+    - Implicaciones y aplicaciones.
+    - Consideraciones adicionales.
+- **Punto Importante 2**:
+    - Implicaciones y aplicaciones.
+    - Consideraciones adicionales.
+
+## Subtema de Nivel 4
+- **Aspecto Específico 1**:
+    - Detalle muy específico.
+    - Ejemplo ilustrativo.
+- **Aspecto Específico 2**:
+    - Detalle muy específico.
+    - Ejemplo ilustrativo.
+
+## Subtema de Nivel 5
+- **Caso de Estudio 1**:
+    - Descripción del caso.
+    - Lecciones aprendidas.
+- **Caso de Estudio 2**:
+    - Descripción del caso.
+    - Lecciones aprendidas.
+
+## Subtema de Nivel 6
+- **Teoría Relevante 1**:
+    - Autores y principios fundamentales.
+    - Críticas y debates.
+- **Teoría Relevante 2**:
+    - Autores y principios fundamentales.
+    - Críticas y debates.
+
+## Subtema de Nivel 7
+- **Herramienta o Técnica 1**:
+    - Pasos para su uso.
+    - Ventajas y desventajas.
+- **Herramienta o Técnica 2**:
+    - Pasos para su uso.
+    - Ventajas y desventajas.
+
+## Subtema de Nivel 8
+- **Investigación Clave 1**:
+    - Metodología y hallazgos.
+    - Implicaciones para el campo.
+- **Investigación Clave 2**:
+    - Metodología y hallazgos.
+    - Implicaciones para el campo.
+
+## Subtema de Nivel 9
+- **Recurso Adicional 1**:
+    - Enlace o referencia.
+    - Breve descripción.
+- **Recurso Adicional 2**:
+    - Enlace o referencia.
+    - Breve descripción.
+
+## Subtema de Nivel 10
+- **Próximos Pasos o Reflexiones Finales**:
+    - Resumen de los puntos clave.
+    - Preguntas para la reflexión.
