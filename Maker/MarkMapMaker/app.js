@@ -2,7 +2,7 @@ import * as dotenv from 'dotenv';
 import * as fs from "node:fs";
 import loadPrompts from './proccess/LoadPrompts.js';
 import generateMarkMap from "./proccess/GenerateMarkMap.js";
-import  sendPrompt  from './proccess/sendPrompt.js';
+import  sendPrompt  from './proccess/SendPrompt.js';
 import enhanceMarkmap from "./proccess/EnhanceMarkmap.js";
 import { agregarTema } from './proccess/SaveTopic.js';
 import logger from "./utility/Logger/logger.js";
