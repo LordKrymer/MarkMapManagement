@@ -11,8 +11,8 @@ Actualmente, el programa funciona únicamente en **español**, pero planeo agreg
 - **Frontend:** en la raíz del repositorio.  
   Instrucciones de uso disponibles en [`How-to-use.md`](./How-to-use.md).
 
-- **Backend:** dentro del directorio [`/Maker/MarkMapMaker`](./maker/MarkMapMaker).
-Instrucciones específicas en [`Maker/MarkMapMaker/README.md`](./maker/MarkMapMaker/README.md).
+- **Backend:** dentro del directorio [`/Maker/MarkMapMaker`](./Maker/MarkMapMaker).
+Instrucciones específicas en [`Maker/MarkMapMaker/README.md`](./Maker/MarkMapMaker/README.md).
 
 ## 🌐 Compartir Mapas
 
